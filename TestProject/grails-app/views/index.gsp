@@ -1,0 +1,1 @@
+redirect(uri:'/contact/list')
